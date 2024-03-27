@@ -12,4 +12,11 @@
         android:text="home"
         android:fontFamily="@font/pretendard_semibold"/>
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_radius"
+        android:text="로그인 버튼" />
+
 </FrameLayout>

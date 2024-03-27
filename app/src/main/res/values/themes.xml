@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Test" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Test" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name ="colorPrimary">#FFFFFF</item>
         <item name ="android:windowLightStatusBar">true</item>
         <!--  이 설정은 preview window를 보이게 할지 안할지 설정하는 것이다. Default는 false로 설정 -->
