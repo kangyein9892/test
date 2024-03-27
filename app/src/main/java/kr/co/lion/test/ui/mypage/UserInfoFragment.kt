@@ -17,4 +17,12 @@ class UserInfoFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_user_info, container, false)
     }
 
+    fun modifyUserInfo(){
+
+    }
+
+    fun manageAddress(){
+
+    }
+
 }
